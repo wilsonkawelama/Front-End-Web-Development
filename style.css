@@ -1,12 +1,8 @@
  <style>
         
-       @font-face {
-                font-family: MyCustomFont;
-                src: url("Karla/static/Karla-MediumItalic.ttf") format('truetype')
-            }
         html {
               box-sizing:border-box;
-              font-family: 'MyCustomFont',  sans-serif;
+              font-family: 'Karla',  sans-serif;
               font-size: 16px;
               font-weight: 400;
 
