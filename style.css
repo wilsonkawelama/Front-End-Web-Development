@@ -6,7 +6,7 @@
               font-weight: 400;
 
         }
-        body{
+ body{
             padding: 20px;
 
         }
@@ -103,7 +103,7 @@
         #price-frequency{
             position: relative;
             top: -3px;
-            font-weight: 0.8rem;
+            font-size: 0.8rem;
             opacity: 0.7;
             margin-left: 5px;
 
@@ -114,7 +114,7 @@
             opacity: 0.8;
             font-size: 0.9rem;
         }
-
+ 
         @media (min-width:576px ){
            #card{
             width: 550px;
@@ -125,3 +125,5 @@
                 width: 50%;
              }
            
+        } 
+        
